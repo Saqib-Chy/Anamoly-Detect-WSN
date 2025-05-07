@@ -10,7 +10,6 @@ This project focuses on developing a robust machine learning-based framework for
 - **Technology Stack:** Python (Pandas, NumPy, scikit-learn), Matplotlib, Seaborn.
 
 ##  Project Structure
-- **`data/`**: Contains the raw and preprocessed data files.
-- **`notebooks/`**: Jupyter notebooks with code for data preprocessing, model training, and evaluation.
-- **`scripts/`**: Python scripts for data loading, feature engineering, and model training.
-- **`visualizations/`**: Generated plots and graphs for data insights.
+- **`Anomaly-detect-predict.ipynb`**: Jupyter notebook for data preprocessing, model training, and prediction.
+- **`streamlit.py`**: Streamlit application for deploying the ML model as a web app.
+
